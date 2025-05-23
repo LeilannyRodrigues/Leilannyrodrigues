@@ -3,5 +3,6 @@
 - 🌱 Cursando graduação de Inteligência artificial 
 - 👯 Estudando HTML, CSS, Javascript
 - ⚡ Front-end 💜
+- 📝 Estudando Python
 - 💬 Contato do e-mail: leilannyrodrigues@gmail.com
 - 😄 Pronouns: ela/dela
