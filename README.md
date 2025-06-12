@@ -2,6 +2,6 @@
 
 - 🌱 Cursando graduação de Inteligência artificial 
 - 👯 Estudando HTML, CSS, Javascript
-- 📝 Estudando Python
+- 📝 Aprendendo Python
 - 💬 Contato do e-mail: leilannyrodrigues@gmail.com
 - 😄 Pronouns: ela/dela
