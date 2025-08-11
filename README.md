@@ -7,3 +7,21 @@
 - 📝 Aprendendo Back-end
 - 😄 Pronouns: ela/dela
 - 📫 Contato do e-mail: leilannyrodrigues@gmail.com
+
+![Snake animation](https://github.com/LeilannyRodrigues/LeilannyRodrigues/blob/output/github-contribution-grid-snake.svg)
+
+**Ferramentas e tecnologias:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
+          
+          
+
+**Estou Aprendendo:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" />
+          
+          
+
+                    
+          
+          
