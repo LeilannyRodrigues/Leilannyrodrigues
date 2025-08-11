@@ -7,8 +7,7 @@
 - 📝 Aprendendo Back-end
 - 😄 Pronouns: ela/dela
 - 📫 Contato do e-mail: leilannyrodrigues@gmail.com
-
-![Snake animation](https://github.com/LeilannyRodrigues/LeilannyRodrigues/blob/output/github-contribution-grid-snake.svg)
+  
 
 **Ferramentas e tecnologias:**
 
