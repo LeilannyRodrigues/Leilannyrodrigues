@@ -4,7 +4,7 @@
 - 🌱 Cursando graduação de Inteligência artificial
 - 🔭 Fazendo parte do programa ONE Oracle Next
 - 💬 Apaixonada em desenvolvimento Front-end
-- 📝 Aprendendo Back-end
+- 📝 Estudando Back-end
 - 😄 Pronouns: ela/dela
 - 📫 Contato do e-mail: leilannyrodrigues@gmail.com
 
