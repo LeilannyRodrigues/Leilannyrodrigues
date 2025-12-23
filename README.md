@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🌱 Cursando graduação de Inteligência artificial
-- 🔭 Fazendo parte do programa ONE Oracle Next Education
+- 🔭 Cursando especialização em Java (ONE Oracle Next Education)
 - 💬 Apaixonada em desenvolvimento Front-end
 - 📝 Estudando Back-end
 - 😄 Pronouns: ela/dela
