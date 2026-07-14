@@ -1,6 +1,6 @@
 # Olá, eu sou a Leilanny! 👋
 
-Desenvolvedora de Software em formação e entusiasta de Inteligência Artificial. Sou apaixonada pelo lado visual do Front-End, adorando estruturar layouts com HTML e dar vida, harmonia e cores aos projetos utilizando CSS, focando totalmente no design e na estética das interfaces.
+Desenvolvedora de Software em formação e entusiasta de Inteligência Artificial. Sou apaixonada pelo lado visual do Front-End, adorando estruturar layouts com HTML e dar vida, harmonia e cores aos projetos utilizando CSS.
 ---
 
 ### 💻 Sobre Mim
