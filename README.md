@@ -1,10 +1,7 @@
 # Olá, eu sou a Leilanny! 👋
 
-Desenvolvedora de Software em formação e entusiasta de Inteligência Artificial. Sou apaixonada pelo lado visual do Front-End, adorando estruturar layouts com HTML e dar vida, harmonia e cores aos projetos utilizando CSS.
----
-
 ### 💻 Sobre Mim
-- 🎓 Graduada no programa de formação técnica **ONE (Oracle Next Education)** na trilha de Back-End em Java Specialization.
+- 🎓 Graduada no programa de formação técnica **ONE (Oracle Next Education)** na trilha de Back-End em Java Specialization. 
 - 🚀 Tenho focado meus estudos no desenvolvimento de APIs com **Java e Spring Boot**, além de banco de dados relacional com **PostgreSQL** e **MySQL**.
 - 🛠️ Experiência prática no desenvolvimento utilizando metodologias ágeis (**Kanban**) e automação de fluxos com ferramentas de IA e **N8N**.
 - 🎹 Fora das telas sou pianista 💪 e gosto de praticar exercícios físicos diariamente.
